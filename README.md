@@ -19,9 +19,9 @@ python3 -m venv env
 ```
 source ./venv/bin/activate // mac
 ```
-![Screenshot (27)](https://github.com/10Sirus/qhse/assets/139644976/44a3c514-8ccb-4d41-8aad-dcd4cbcaa6b0)
 
-*Install all the required filea
+
+* Install all the required Packages
 ```
 
 pip install -r requirements.txt
