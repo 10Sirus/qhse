@@ -16,7 +16,7 @@ python3 -m venv env
 
 source ./venv/bin/activate // mac
 ```
-A![Screenshot (27)](https://github.com/10Sirus/qhse/assets/139644976/44a3c514-8ccb-4d41-8aad-dcd4cbcaa6b0)
+![Screenshot (27)](https://github.com/10Sirus/qhse/assets/139644976/44a3c514-8ccb-4d41-8aad-dcd4cbcaa6b0)
 ```
 pip install --upgrade pip
 ```
@@ -35,11 +35,19 @@ conda activate qhse
 pip install -r requirements.txt
 ```
 
-## Database Setup
 
-Create Database With Name of 'mydb' or your choice (then change db name in config.py)
 
-lso setup config.db according to your Database credentials
+## Database Dev Setup
+
+In the database.py file set "prod=False" and in the "else" section type in your database Url after "SQLALCHEMY_DATABASE_URL=".
+
+Download TablePlus from your browser.
+Choose your required database(MySQL,Postgres).
+Type in the required fields from the KEY.
+
+![image](https://github.com/10Sirus/qhse/assets/139644976/7a2a5f8b-e095-4714-a062-3729678fdccc)
+
+![image](https://github.com/10Sirus/qhse/assets/139644976/6f71a0bb-f357-4676-a043-35c40b46ec19)
 
 ## Run the App
 
