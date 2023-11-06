@@ -16,6 +16,7 @@ python3 -m venv env
 
 source ./venv/bin/activate // mac
 ```
+A![Screenshot (27)](https://github.com/10Sirus/qhse/assets/139644976/44a3c514-8ccb-4d41-8aad-dcd4cbcaa6b0)
 ```
 pip install --upgrade pip
 ```
@@ -37,7 +38,8 @@ pip install -r requirements.txt
 ## Database Setup
 
 Create Database With Name of 'mydb' or your choice (then change db name in config.py)
-Also setup config.db according to your Database credentials
+
+lso setup config.db according to your Database credentials
 
 ## Run the App
 
