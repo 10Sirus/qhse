@@ -6,15 +6,17 @@ Python FastApi using ORM for Database Communication
 ## Environment Setup with Virtual ENV
 ### Open terminal and create a virtual environment 
 
-*Create a venv file
+* Create a venv file
 ```
 python3 -m venv env
 ```
-*Activate Environment
-** windows
+* Activate Environment
+  a. Windows
 ```
 .\venv\Scripts\activate  // windows
-
+```
+  b. Mac
+```
 source ./venv/bin/activate // mac
 ```
 ![Screenshot (27)](https://github.com/10Sirus/qhse/assets/139644976/44a3c514-8ccb-4d41-8aad-dcd4cbcaa6b0)
