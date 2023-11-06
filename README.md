@@ -10,7 +10,7 @@ Python FastApi using ORM for Database Communication
 ```
 python3 -m venv env
 ```
-* Activate Environment
+* Activate Environment <br>
   a. Windows
 ```
 .\venv\Scripts\activate  // windows
