@@ -47,9 +47,9 @@ Download TablePlus from your browser.
 Choose your required database(MySQL,Postgres).
 Type in the required fields from the Developer KEY.
 
-[Imgur](https://i.imgur.com/nAnWIxF.png)
+![Imgur](https://i.imgur.com/nAnWIxF.png)
 
-[Imgur](https://i.imgur.com/wsVYY6N.png)
+![Imgur](https://i.imgur.com/wsVYY6N.png)
 
 ## Run the App
 
